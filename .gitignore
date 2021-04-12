@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.flake8
+!README.md
+!resources/
+!resources/shomu.png
+!resources/shomu.svg
+!shomu_cfg_example_linux.json
+!shomu_cfg_example_windows.json
+!shomu.py

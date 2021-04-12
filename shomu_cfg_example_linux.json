@@ -1,0 +1,21 @@
+{
+"Context 1": {
+    "conf": {"fg_color": "black", "bg_color": "#2BFFFF"},
+    "keys": {
+        "f": {"command": "explorer D:\\test_shomu\\Project_1", "cwd": "None"},
+        "Shift-S": {"command": "start cmd -c python D:\\test_shomu\\sample_script.py", "cwd": "None"},
+        }
+    },
+"Context 2": {
+    "conf": {"fg_color": "white", "bg_color": "#649EFF"},
+    "keys": {
+        "f": {"command": "explorer D:\\test_shomu\\Project_2", "cwd": "None"}
+        }
+    },
+"Other": {
+    "conf": {"fg_color": "black", "bg_color": "#FF00FE"},
+    "keys": {
+        "f": {"command": "explorer D:\\test_shomu\\Project_3", "cwd": "None"}
+        }
+    }
+}
