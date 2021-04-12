@@ -61,7 +61,7 @@ Prioritization of config file lookup is as follows:
 
 
 ### Config file syntax
-Have a look at `shomu_cfg_example.json` for reference.
+Have a look at `shomu_cfg_example_linux.json` for reference.
 
 - top level is about contexts
 - `conf` section is about a context's visual presentation (colors can either be keywords or hex values) 
