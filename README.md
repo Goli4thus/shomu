@@ -35,7 +35,7 @@ With this you can say (assuming launching the app beforehand via some form of gl
 - press `2s`: open file manager at context 2, location 2
 - ...
 
-![ShoMu](resources/ShoMu__example.png)
+![ShoMu](https://github.com/Goli4thus/images/blob/master/images_shomu/ShoMu__example.png)
 
 ## Dependencies
 ### For python 3.7 or newer
